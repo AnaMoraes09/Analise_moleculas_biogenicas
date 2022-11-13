@@ -1,4 +1,4 @@
-# Analise_moleculas_biogenicas
+# Analise Moléculas Biogênicas
 ---
 Projeto para análise de moléculas biogênicas 
 - Python utilizado para extração de dados das moléculas biogenicas do banco de dados ZINC20 
