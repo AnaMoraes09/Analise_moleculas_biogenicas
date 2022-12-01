@@ -1,5 +1,5 @@
-# Análise Moléculas Biogênicas
+# Analysis of Biogenic Molecules
 ---
-Projeto para análise de moléculas biogênicas 
-- Python utilizado para extração de dados das moléculas biogenicas do banco de dados ZINC20 
-- Rstudio utilizado para a análise dos dados extraídos
+Project for analysis of biogenic molecules
+- Python used to extract data from biogenic molecules from the ZINC20 database
+- Rstudio used for analyzing the extracted data
